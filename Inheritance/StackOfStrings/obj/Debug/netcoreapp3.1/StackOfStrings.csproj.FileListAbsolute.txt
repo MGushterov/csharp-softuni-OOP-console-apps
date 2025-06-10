@@ -1,0 +1,14 @@
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.exe
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.deps.json
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.runtimeconfig.json
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.runtimeconfig.dev.json
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.dll
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.pdb
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.csproj.AssemblyReference.cache
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.AssemblyInfo.cs
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.dll
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.pdb
+C:\Users\ANG\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.genruntimeconfig.cache
